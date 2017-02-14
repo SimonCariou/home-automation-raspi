@@ -1,7 +1,12 @@
-# home-automation-raspi
-Home automation system based on raspberry pi.
+ home-automation-raspi
+
+*Home automation system based on raspberry pi.*
+
+## Description
 
 Basic website hosted on the raspberry pi. I am able to control a camera and the GPIO pins from the web. Plus the website is accessible from the outside by port forwarding.
+
+## What it does
 
 I am able to:
 - take pictures by executing commands on the raspberry via PHP
